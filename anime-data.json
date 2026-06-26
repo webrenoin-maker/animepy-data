@@ -1,23 +1,5 @@
 [
   {
-    "id": "anime_1782478658914",
-    "title": "Unknown Anime",
-    "type": "Series",
-    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/aWL4Tt2HVuUy6NwoWXBm70FDbUe.jpg",
-    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/rogeBJK44LtWynOqzMFmEF30T80.jpg",
-    "mobileBanner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/rogeBJK44LtWynOqzMFmEF30T80.jpg",
-    "synopsis": "No Plot Found.",
-    "rating": "7.5/10",
-    "quality": "720p | 1080p HEVC",
-    "subtitle": "English",
-    "dubbedBy": "Crunchyroll",
-    "section": "new-arrivals",
-    "inSlider": true,
-    "langs": "Hindi, Korean",
-    "genres": "Anime",
-    "seasonsData": {}
-  },
-  {
     "id": "anime_1782477808592",
     "title": "Black Clover: Sword of the Wizard King (Movie)",
     "type": "Movie",
