@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "id": "anime_1782451447740",
+    "title": "Unknown Anime",
+    "type": "Series",
+    "img": "https://picsum.photos/400/600?random=12",
+    "banner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "synopsis": "No Plot Found.",
+    "rating": "7.5/10",
+    "quality": "720p | 1080p HEVC",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Bengali, Korean, Malayalam, Kannada",
+    "genres": "Sci-Fi, Mecha, Psychological",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/b1a59b315fc9a3002ce38bbe070ec3f5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/a4f23670e1833f3fdb077ca70bbd5d66",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/cfa0860e83a4c3a763a7e62d825349f7",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/502e4a16930e414107ee22b6198c578f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/d96409bf894217686ba124d7356686c9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/f718499c1c8cef6730f9fd03c8125cab",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/fe131d7f5a6b38b23cc967316c13dae2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/c52f1bd66cc19d05628bd8bf27af3ad6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/c24cd76e1ce41366a4bbe8a49b02a028",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/03c6b06952c750899bb03d998e631860",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/19f3cd308f1455b3fa09a282e0d496f4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  }
+]
