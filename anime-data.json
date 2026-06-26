@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "id": "anime_1782483168880",
+    "title": "The Rising of the Shield Hero Season 04",
+    "type": "Series",
+    "img": "https://picsum.photos/400/600?random=12",
+    "banner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "synopsis": "Aiming to protect Raphtalia from the assassins of Q’ten Lo, Naofumi Iwatani travels with his friends to the eastern isolationist kingdom. On his way, Naofumi stops over in Siltvelt, a kingdom built by a former shield hero, where he is revered as a god and is offered a chance to rule the country. However, behind this grand welcome lie deep political conspiracies and hidden dangers, where Naofumi must face his greatest test of identity, loyalty, and leadership yet.",
+    "rating": "7.35/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Korean",
+    "genres": "Seinen, Dark Fantasy, Drama, Horror",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/59225c895ad22cbc93691d496b64aa61",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/0c4d2507437b59833b44f6367c6222c0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/95a1c096512dbb572d74f4fcbf6bfbfb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/67aa32a1a83b0ac24b4a944f48c6af77",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/727081a4c5ad28479ce66658528274f7",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e4639aefe47ac53c3df3d8f9846b5161",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/fbc08cbac224e9880b2600256f1c1455",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/b57f7e3c691e9086caa881b52de2a661",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/313da47e839710e75f571f862f52be69",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/25411c7a6117dca4fca5d84c4ee09df5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/d893016144cfc7f13dd5cab7204d1be1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/fb306d161c5d5ff68fb2512de815a8f9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  }
+]
