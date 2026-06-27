@@ -1,20 +1,20 @@
 [
   {
-    "id": "anime_1782483168880",
+    "id": "anime_1782588233968",
     "title": "The Rising of the Shield Hero Season 04",
     "type": "Series",
     "img": "https://picsum.photos/400/600?random=12",
-    "banner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-    "mobileBanner": "https://media.themoviedb.org/t/p/w780/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/rogeBJK44LtWynOqzMFmEF30T80.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/rogeBJK44LtWynOqzMFmEF30T80.jpg",
     "synopsis": "Aiming to protect Raphtalia from the assassins of Q’ten Lo, Naofumi Iwatani travels with his friends to the eastern isolationist kingdom. On his way, Naofumi stops over in Siltvelt, a kingdom built by a former shield hero, where he is revered as a god and is offered a chance to rule the country. However, behind this grand welcome lie deep political conspiracies and hidden dangers, where Naofumi must face his greatest test of identity, loyalty, and leadership yet.",
     "rating": "7.35/10",
     "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
     "subtitle": "English",
     "dubbedBy": "Crunchyroll",
     "section": "most-watched-series",
-    "inSlider": true,
-    "langs": "Hindi, English, Korean",
-    "genres": "Seinen, Dark Fantasy, Drama, Horror",
+    "inSlider": false,
+    "langs": "Hindi, English, Japanese, Malayalam",
+    "genres": "Shonen, Seinen, Action, Fantasy, Dark Fantasy, Sci-Fi",
     "seasonsData": {
       "1": [
         {
