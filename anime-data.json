@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782637399400",
+    "title": "Snowball Earth Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/cF09k4csKKjzr9C1Qw1S2WlK8YJ.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
+    "synopsis": "In a futuristic world, humanity successfully develops a planet-scale defense system called \"Snowball Earth\" to protect the planet from a catastrophic alien invasion. Tetshuma, a young pilot of a giant humanoid robot, fights alongside his mechanical partner to defeat the final wave of extra-terrestrial threats in outer space. However, upon returning to Earth after the hard-fought victory, he is shocked to find that the defense system went completely haywire, triggering a perpetual ice age that has encased the entire globe in deep ice and snow. Navigating an unforgiving frozen wasteland, Tetsuma must brave sub-zero temperatures, hidden remnants of alien forces, and desperate human factions as he searches for survivors and attempts to uncover the mystery behind the planet's sudden deep freeze.",
+    "rating": "7.20/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/db782d22265fd45c6af25f3bb5fc6a1a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/a249084ad4bce339b204ab436db2d902",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/61340e853c1b55df76945afcbe5fcadb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/060d6e6b635a8b27ff90e4ef041c2ae9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/e9581708455f019cff55c757b2f36ccd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/6c7a9f7314e184c928cd9fd0efd3b659",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/7aa0c0a3e9f181bc2dd0e35ecae62dd9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/bb8054b490d695da02c573c665824b88",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/9d8cc04d36560d8bb56054f8f9354138",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/fdeb711f948b72ef659f43ec66a36709",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782643174524",
     "title": "Solo Leveling Season 1 & 2",
     "type": "Series",
@@ -849,107 +950,6 @@
         {
           "epNum": 4,
           "server1": "https://as-cdn21.top/video/8b1d4dae4314191be293526cf052e257",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": "anime_1782637399400",
-    "title": "Snowball Earth Season 1",
-    "type": "Series",
-    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/cF09k4csKKjzr9C1Qw1S2WlK8YJ.jpg",
-    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
-    "mobileBanner": "https://media.themoviedb.org/t/p/w780/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
-    "synopsis": "In a futuristic world, humanity successfully develops a planet-scale defense system called \"Snowball Earth\" to protect the planet from a catastrophic alien invasion. Tetshuma, a young pilot of a giant humanoid robot, fights alongside his mechanical partner to defeat the final wave of extra-terrestrial threats in outer space. However, upon returning to Earth after the hard-fought victory, he is shocked to find that the defense system went completely haywire, triggering a perpetual ice age that has encased the entire globe in deep ice and snow. Navigating an unforgiving frozen wasteland, Tetsuma must brave sub-zero temperatures, hidden remnants of alien forces, and desperate human factions as he searches for survivors and attempts to uncover the mystery behind the planet's sudden deep freeze.",
-    "rating": "7.20/10",
-    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
-    "subtitle": "English",
-    "dubbedBy": "Crunchyroll",
-    "section": "most-watched-series",
-    "inSlider": true,
-    "langs": "Hindi, English, Japanese, Tamil, Telugu",
-    "genres": "Action, Adventure, Fantasy, Sci-Fi",
-    "seasonsData": {
-      "1": [
-        {
-          "epNum": 1,
-          "server1": "https://as-cdn21.top/video/db782d22265fd45c6af25f3bb5fc6a1a",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 2,
-          "server1": "https://as-cdn21.top/video/a249084ad4bce339b204ab436db2d902",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 3,
-          "server1": "https://as-cdn21.top/video/61340e853c1b55df76945afcbe5fcadb",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 4,
-          "server1": "https://as-cdn21.top/video/060d6e6b635a8b27ff90e4ef041c2ae9",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 5,
-          "server1": "https://as-cdn21.top/video/e9581708455f019cff55c757b2f36ccd",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 6,
-          "server1": "https://as-cdn21.top/video/6c7a9f7314e184c928cd9fd0efd3b659",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 7,
-          "server1": "https://as-cdn21.top/video/7aa0c0a3e9f181bc2dd0e35ecae62dd9",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 8,
-          "server1": "https://as-cdn21.top/video/bb8054b490d695da02c573c665824b88",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 9,
-          "server1": "https://as-cdn21.top/video/9d8cc04d36560d8bb56054f8f9354138",
-          "server2": "",
-          "server3": "",
-          "server4": "",
-          "server5": ""
-        },
-        {
-          "epNum": 10,
-          "server1": "https://as-cdn21.top/video/fdeb711f948b72ef659f43ec66a36709",
           "server2": "",
           "server3": "",
           "server4": "",
