@@ -1,5 +1,228 @@
 [
   {
+    "id": "anime_1782643174524",
+    "title": "Solo Leveling Season 1 & 2",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "synopsis": "In a world where mysterious \"Gates\" have opened to connect humanity with dangerous dungeons filled with deadly monsters, ordinary individuals have awakened supernatural abilities to become \"Hunters.\" Sung Jin-woo, known as \"The Weakest Hunter of All Mankind,\" struggles through low-rank raids just to pay for his mother's medical bills. However, after surviving a near-fatal event inside a hidden double dungeon, he awakens with the unique power of \"The System\"—a game-like interface that allows him alone to level up, train, and grow stronger without limits. Tracking his journey across two phenomenal seasons, Jin-woo transforms from a helpless outcast into an unstoppable powerhouse, raising a shadow army and unlocking dark secrets about the true origins of the gates and his extraordinary powers.",
+    "rating": "8.35/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": false,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/ec4de54f2f3afa14175e5eabfc16ce1f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/37de71064f5d9561e9c8721237947f7f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/bd9b0b4fe7c7d2f2c932c8d279ddb529",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/885fd739d31951206a8c4f0d6472fcf0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/8a66cd1b3045b820efd42dbf18eb28e1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/43413ceafd2ea8d4a5e17d21c4840d9e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/e6e31529675d0ef99d777d729c423382",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/fb5d9e209ebda9ab6556a31639190622",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/48c0b3cf0c62e40eeff5a9b07a63d953",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/8d969817eda63ba5eb9f49ea11f0b5ae",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/4756c77f32f14b12aa71e976505e02b5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/b5a4fecffcf98386694f96c74b302131",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/f23775b54b9e62e2d15498c3b9418630",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/e58478453181d060df81288ac2012452",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/aa0f9de3c3f38177051c3c8741dac037",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/14b75c2d38d88b747c19de8ea5509d16",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/c58ec9af29371058432c2c0ddf1f3c9a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/1b5e669dd84003f7a70da7724e5cba93",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/d76fd0a4809a5be8a22e43e33bdc649e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/2b1a9e41c7cb15669337c1a583af31f8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/58be687cd9a13d7776b1918f57243b35",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/8c84974a7c5b56145b54496b1695cc09",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/27dbb28ea03fd64ae84f717f6dfac59c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/0b273b9a5033296646175710f43c6780",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/b8e32c77dec45bcb3429af70c8fd7a8b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782632443625",
     "title": "That Time I Got Reincarnated as a Slime (Multi-Season Package)",
     "type": "Series",
