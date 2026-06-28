@@ -1,5 +1,308 @@
 [
   {
+    "id": "anime_1782629569134",
+    "title": "Dr. STONE Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+    "synopsis": "In a flash, all of humanity is mysteriously turned to stone after a blinding flash of light strikes the Earth. Thousands of years later, high school student Taiju Ooki awakens from his petrification, only to find a world reclaimed by nature where civilization has completely crumbled. Luckily, he is not alone; his brilliant, science-loving friend Senku Ishigami has also broken free months prior. Senku has a grand plan in mind: to jumpstart civilization from scratch using the absolute power of science. Together, they develop a formula to revive the rest of humanity. However, their ideals clash heavily when they awaken Tsukasa Shishio, a powerful martial artist who believes only the young and pure should be revived, creating a massive ideological war between Senku's Kingdom of Science and Tsukasa's Empire of Might.",
+    "rating": "8.28/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Shonen, Action, Adventure, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/0d3350e2519bca2aa09823ebbfd3d5ed",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/6445ba9df3c5462884f5c510426474ff",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/867c51ec0949a1a888b8ddd7ccd77ca8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/b53b8bcccc2850c4f7bc651343e63dc0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/f194ca6b8132aaa26558b309fa044e01",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e82a7c661e834d935311ae02bdb4314c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/136aa7fe7fd745073fec3fb4ef67e3b9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/e7ccbd117813eee6060129d6f8c76ecb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/40cb9f2ff30f26a410c5af6b22b7b80b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/e58be547528b4bf803f45ac3f9a8fabb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/7d27e5960861702b7374d981449e2649",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/47382215d49d656d1dc0d8f008f566c5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/fa93ac46951909a7575d591bc4d85ce6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://as-cdn21.top/video/52c031e023c8a03f30f57246f9c3d4f9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn21.top/video/44788404a9a7eee60c80ad849e3efb7b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://as-cdn21.top/video/59727fa212140da7999b9e659b3196aa",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 17,
+          "server1": "https://as-cdn21.top/video/0b0ee8b71cee482463da696285a4def0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 18,
+          "server1": "https://as-cdn21.top/video/be590ce170386babcf557b982eee50b4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn21.top/video/fb45343c4635769a36c5072e04b6b978",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 20,
+          "server1": "https://as-cdn21.top/video/fae034d20a4c0184e93c2c5594a934c4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 21,
+          "server1": "https://as-cdn21.top/video/f2682c2ed6193e284aef8107b2e62a4e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://as-cdn21.top/video/b5280e06d32aafdfebb9d93393c92d23",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 23,
+          "server1": "https://as-cdn21.top/video/e44a045fd42b7e450f0554f33df0b073",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 24,
+          "server1": "https://as-cdn21.top/video/659b8b9a4b3f4e16256d0c3e74edf1b5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/0ac2e9dc0810e7a46d37c8070285c9ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782588233968",
     "title": "The Rising of the Shield Hero Season 8",
     "type": "Series",
