@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782665674696",
+    "title": "Witch Hat Atelier Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+    "synopsis": "Coco, a simple village girl, has been fascinated by magic since childhood, but because only those born with innate magical abilities can cast spells, she must abandon her dream. However, after secretly witnessing a traveling wizard named Qifrey performing magic, Coco discovers that magic is actually drawn using specialized ink and runes. Attempting to copy a spell from a mysterious picture book she bought as a child, Coco accidentally triggers a forbidden spell that turns her mother and house to stone. To save her mother, Qifrey takes Coco in as his apprentice. Alongside her fellow apprentices, Coco enters a beautifully intricate but deeply dangerous world of magic, uncovering hidden secrets and severe taboos to find a way to reverse the curse.",
+    "rating": "8.38/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese",
+    "genres": "Fantasy, Sci-Fi, Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/84fbd798e127f7f700c17213662213ce",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/b0dde169fb34d690cf472de3da61a0ea",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/235d345c2ab5e66d05754f2129ed5c06",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/d39e083be3c4b3073a3e6b25ac210c2d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/36880d4600935fcb2e721c7e7b03cc4f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/52f0afbaba42e4345bd027cb91ffc52d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/bfda4ecd52a662dc46ed0bbf1f7b495a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/5cfcc1972d5e8972ace3c90e609f0f58",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/e09baed818bb105cc3f3451d6aa93f2d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/5e57e76cd6ebcdd544ce5dd30faa95db",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782637399400",
     "title": "Snowball Earth Season 1",
     "type": "Series",
