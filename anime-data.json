@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782666833221",
+    "title": "Eren the Southpaw Season 1",
+    "type": "Series",
+    "img": "https://image.tmdb.org/t/p/w500/AkhxnKGDcNKikr1xDP4mi1wpfEr.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/4lfbfiNYyiM27U6BwT94taynXXH.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/4lfbfiNYyiM27U6BwT94taynXXH.jpg",
+    "synopsis": "Eren Asakura is a passionate and hot-blooded high school baseball player who possesses incredible potential as a left-handed pitcher, commonly known as a \"southpaw.\" Despite his raw talent and explosive pitches, his lack of control and chaotic playing style often leave him struggling on the mound. When a new coach arrives with a vision to build a championship-caliber team, Eren is forced to rebuild his technique from scratch. Alongside a dedicated catcher who sees past his flaws and a roster of ambitious teammates, Eren must overcome severe rivalries, intense training arcs, and his own internal pressures. This thrilling sports drama follows his gripping journey to master his left hand, find his unique rhythm, and lead his team toward national glory.",
+    "rating": "7.34/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, Japanese, Tamil, Telugu",
+    "genres": "Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/5595d5735eb1f5e775f86979f81dfb2e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/935a0def48ff0d1979324d773278f945",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/8a1854f491c11482630ebb4135df2d2b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/7928930515844730f8e63b0634226df6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/7fea1fb9e9b410a5a0c5d982fc6f584d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/3e4b663e94e918f8f9fdf1ddef046564",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/1298377a927574130249fdab8e1d122a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/f0413389b899baa7224d3b3343160f5f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/045020ae3a56c185c69e8984ecf61415",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/2871d86ea442b2496f4774b3810b2142",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782666327959",
     "title": "Marriage Toxin Season 1",
     "type": "Series",
