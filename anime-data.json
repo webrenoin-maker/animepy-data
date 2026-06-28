@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782667470046",
+    "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/xlpYhXiyX52t6Dtg1fFN0CqLbK4.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/esmoeVNjHb4SAXRQJpkSoPX4nFB.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/esmoeVNjHb4SAXRQJpkSoPX4nFB.jpg",
+    "synopsis": "Crown Prince Cecil of the Alphistan Kingdom is a genius whose intellect makes the entire world seem boringly predictable. His dull life takes a sudden, highly entertaining turn when his eight-year-old fiancée, Bertia, abruptly announces that she is a reincarnated \"villainess\" destined to ruin his life and break their engagement. Driven by her bizarre mission to fulfill her role as the story's antagonist and ensure the Prince finds happiness with the actual \"heroine,\" Bertia constantly hatches intricate but hilariously clumsy schemes to be evil. Fascinated by her unpredictable antics, Cecil decides to step back and observe her daily life. Instead of driving him away, Bertia’s energetic blunders and kind-hearted nature end up charming the entire court, completely disrupting the pre-destined plot of her visual novel world.",
+    "rating": "7.68/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Fantasy, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/6e1daf7c8796af0fb9827612e600a219",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/9403726f748a529821f7df4779ea9578",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/8f7fe48f0ffd0d5572f0d34af4723004",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/4b4a96575767e162b8c6013ec6712d40",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/415db8c87467076156344592ebda735d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/14ea332d0684051d9fef033a5f1607dd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/0ace141f8779c77b60cdc66fa22da900",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/622dd664eb50cc4d5dde39d815742821",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/b6d29369f4fb322ea56535445a9aa110",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/ef1f649f75e8a22d9c13c9aef6437832",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782666833221",
     "title": "Eren the Southpaw Season 1",
     "type": "Series",
