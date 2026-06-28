@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782666327959",
+    "title": "Marriage Toxin Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/2b1akkaoutSo3xbykjAKnEb92Rs.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+    "synopsis": "Gero is a young man from a legendary clan of poison masters that has existed for hundreds of years. Having spent his entire life in the criminal underworld dealing with deadly toxins and assassination missions, he has absolutely zero experience with romance or normal social interactions. However, his clan threatens that if he doesn't marry and produce an heir to carry on the family lineage, they will force his precious younger sister into a marriage against her will. Desperate to save her, Gero crosses paths with Kisonagi, a brilliant and beautiful marriage swindler whom he was originally ordered to kill. Spared from death, Kisonagi agrees to become Gero's personal marriage coach, using master-level manipulation skills to transform a socially awkward assassin into the perfect eligible bachelor while dodging rival killers along the way.",
+    "rating": "7.62/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/6677753c451487e9632f1fa7612f1745",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/075a3a646faea7bfa9cd8b86c51a026b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/1ded5b4a39ea7331757bd9ae8bd5b9dd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/b75fccecb75be47415ce1244f0b2f993",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/c53c2b3941332844173d3f3670297f16",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/c73568630a7d05a2da9940e239c63242",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/bf232372187476bd5b8146e467fa85dc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/d84ca991b2dbcb8e6d8e48e00f80dfd1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/1eebbb55fd7a6ade3787002e5f87ceab",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/d130125b5bba8462ae017c93319b79fd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782665674696",
     "title": "Witch Hat Atelier Season 1",
     "type": "Series",
