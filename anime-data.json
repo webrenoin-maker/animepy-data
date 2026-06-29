@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782717345626",
+    "title": "Daemons of the Shadow Realm Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+    "synopsis": "Yuru is a young boy who leads a quiet, secluded life in a remote mountain village, spending his days hunting birds and living in deep harmony with nature. However, his peaceful existence is completely upended when the village comes under a sudden, high-tech military attack, revealing that the world outside is far different from what he was led to believe. Amidst the chaos, Yuru discovers a profound secret regarding his twin sister, Asa, and unlocks the power to command divine supernatural entities known as \"Daemons.\" Forced to flee into the modern, unfamiliar world, Yuru must master his newfound abilities, unravel the dark mysteries surrounding his lineage, and fight against powerful factions vying for control over the legendary Daemons of the Shadow Realm.",
+    "rating": "7.75/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/c5fdc43e3e79280af7214abf7376eb31",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/ae6a757b965961ebbec156a82c5c9f40",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/cad4606b0da5f6d526fcbba8519d15ab",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/1aae1a3aa7b71edec22e9d382f2a6ae9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/4e55263505ae74fc5d622c9dfe7c4538",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/4c5bc9874d7876f9b7b6959d3c555f45",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/11bd0ff5338b26539c318b8647dfd515",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/1f3ecb87f576752202975d3e0b868bdc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/bab5a177611b396bd0a930cafb6b1c54",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/9fe79d0e0ed2c8a72600b5eb4706395d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782667470046",
     "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess Season 1",
     "type": "Series",
