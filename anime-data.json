@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782717620636",
+    "title": "If My Favorite Pop Idol Made It to the Budokan, I Would Die Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/n8tBDlRzWOA8ywyQNv3t9EokHVx.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/kos8QXOgFQS89j9cR7SoEJtCjhB.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/kos8QXOgFQS89j9cR7SoEJtCjhB.jpg",
+    "synopsis": "Eripiyo is a fiercely dedicated and hardcore idol fan who lives an incredibly minimalist life, spending every single penny she earns on her absolute favorite, low-ranking member Maina from the underground pop group ChamJam. Working multiple part-time jobs just to buy merchandise and voting tickets, Eripiyo's ultimate, burning dream is to see Maina perform live at the prestigious Budokan arena. Her intense, hilarious, and deeply loyal support catches the attention of both the idol community and Maina herself, who is incredibly touched but often too shy to express her gratitude. This heartwarming comedic story follows the lives of passionate fans and struggling idols as they push their boundaries to reach the top of the music world together.",
+    "rating": "7.42/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/0d10f1d273a62c6d7af57c6093632919",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/c7e2ac420af977df8c6ccc95ac8dc911",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/ac65fa3ab83a6deeaa332196ad0ebabb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/2255538166d2e6f3c6097c2c4df4e0be",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/e31402e75dbca3776b0b8f20e6868d94",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/f3717533a90a8ecb1de730050beab052",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/4a716f7ba05468f225127f29aa2040c5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/4ab209885a134d73b39bc96504b7e301",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/fe22fd595b5383f9ce1f7e2abd10584f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/90797bef9ef6175e04f3c9383568f9e4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/8d462d62ac0734241b98c97bafca11fc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/308a4f1079d3c50653dfeca80d85ea6a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782717345626",
     "title": "Daemons of the Shadow Realm Season 1",
     "type": "Series",
