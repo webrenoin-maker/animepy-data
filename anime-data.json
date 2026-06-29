@@ -1,5 +1,114 @@
 [
   {
+    "id": "anime_1782718862193",
+    "title": "Agents of the Four Seasons: Dance of Spring Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/zbzbUDLO3iTAuXDmoqtpOsrtLPi.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/lQcUbt8Rs0TcmIhsVGpoEeqWHwE.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/lQcUbt8Rs0TcmIhsVGpoEeqWHwE.jpg",
+    "synopsis": "In a world where the changing of seasons is controlled by divine manifestations known as the \"Agents of the Four Seasons,\" these chosen individuals are granted powerful seasonal magic by the gods to bring life, warmth, and balance to the land. Hinagiku, the young and gentle Agent of Spring, is kidnapped by a rogue faction during a brutal assault, leaving the world trapped in a harsh, unending winter for ten long years. After a decade of captivity, she is finally rescued and reunited with her loyal bodyguard and childhood friend, Sakura. Weakened but determined, Hinagiku must learn to master her dormant spring magic and perform her sacred ritualistic dance once more. Alongside the Agents of Summer, Autumn, and Winter, she must navigate deep political conspiracies and fight back against dark entities threatening to shatter the natural cycle of the world forever.",
+    "rating": "7.82/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Fantasy, Sci-Fi, Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/c4c65c2e1f678ba44aa520651fee3941",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/f081a21efc523542648674241cbbf187",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/8df7d01d229a1f6d0e6e8ead21cd3bd2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/6022b0e29ba3493b5041f9c92e62174c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/452e59f6084d94442fd8f653932afcb8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/71aed24aa9e22bcd3516ba73c291aa18",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/5735438d64589c7672b1b246cc3b2b24",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/aca32b8b77023b56de7d479add89e4f5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/b12688a94782845c2280d07eff3673b3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/251b4805008712ec04e69c6569bfb189",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/30d4acd988cebcb9d2142e2af7a9dbaf",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782718594453",
     "title": "The Warrior Princess and the Barbaric King Season 1",
     "type": "Series",
