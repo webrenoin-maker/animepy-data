@@ -1,5 +1,98 @@
 [
   {
+    "id": "anime_1782718594453",
+    "title": "The Warrior Princess and the Barbaric King Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/fv0Mr6ahZfmwksgDpVO46iMteA6.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg",
+    "synopsis": "Amber, a fierce and highly respected warrior princess from a noble kingdom, has spent her entire life training to protect her people from external threats. However, following a sudden geopolitical shift and a bid to secure a fragile peace, she is forced into a political marriage with Galen, the ruler of a neighboring territory widely feared as the \"Barbaric King.\" Expecting a brutal tyrant and a lawless wasteland, Amber enters the northern kingdom with her guard up, only to discover that King Galen's fierce exterior hides a deeply loyal leader who deeply cares for his citizens. As they navigate their sharp cultural differences, political conspiracies, and mutual distrust, the two powerful rulers slowly find common ground, transforming an unwanted alliance into a passionate romance and an unstoppable partnership on the battlefield.",
+    "rating": "7.54/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Fantasy, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/8924525719289a3343a689fb0cf28f93",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/e2bc7a52e896193e43a2e15df870c4e2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/5a460d084470e30fa2ef883c10b34ad5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/229b98b8f89fc6c194aa8bdb0b4b8c55",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/d9e834c333498cfdfc276179353ea600",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/4755159c3ffa27fa10e40287ac64f332",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/7b62f4f7d6b4bad3c197281bcd657611",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/9ff6b4c1124dfb0ddeffd72781d88aa6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/c7fdc5f5c63fbdc92af9e5df3721ed6b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782717620636",
     "title": "If My Favorite Pop Idol Made It to the Budokan, I Would Die Season 1",
     "type": "Series",
