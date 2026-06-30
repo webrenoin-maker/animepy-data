@@ -1,5 +1,220 @@
 [
   {
+    "id": "anime_1782840933291",
+    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w300_and_h450_face/yCptRpyI7wMZd64GCrRkOY6ivmP.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w780/iA6yYtTPPyyxH883WTYYrB3z0fv.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/iA6yYtTPPyyxH883WTYYrB3z0fv.jpg",
+    "synopsis": "Boxxo was once a human vending machine fanatic who tragically met his end when a stray machine crushed him. To his absolute astonishment, he wakes up in a strange fantasy world resurrected as an actual, sentient vending machine. Initially stranded by a lake and unable to move, his luck changes when he meets Lammis, a cheerful and incredibly strong hunter girl who accidentally discovers his utility. Able to dispense any food, drink, or item he had bought in his past life by using magic points, Boxxo forms a unique partnership with Lammis, who happily carries him around on her back. Together with a colorful guild of adventurers, they venture deep into mysterious, dangerous dungeons, utilizing Boxxo’s bizarre modern inventory to solve puzzles, outsmart monsters, and provide refreshing snacks in the middle of deadly combat.",
+    "rating": "6.96/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "on-air-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/d99fa3a9dd5df426e62b19597322920a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/787e8665307884350308429f4fc60451",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/70cf1f7eb14c9f52277f07e84a2775f3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/0a7ff96e4fa7c92a13ccab013d580930",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/b9e255d57bdc3d30828bfd835b86749c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/96fe1255e032940e2739e06072855b95",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/d45959550312221e15fde04690b18acd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/90c5841cb33b6ffdf75850044c595725",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/eb6bdd281dfc2688a42174679b8e5bbd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/2e0a791950a53842e60d83295368cdff",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/effbafd134873f47f49c740581fb1854",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/ccd44234c58cba8173f8ae706a0fce24",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/b304d12155fc51aaf1db47b40292ec54",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/ab42fc5c2a7c8f48b3eb50f15ec049ab",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/cb0d6d3459c57b7a5c968956b1ecf1e3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/126548d403b6c39820e63fed2cd54db3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/987ecf1824ae5e4648f2f65137abc8de",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/fdac69c3eee7bd0427535354eae235a4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/a59a9c2e2ec7250a16e4fff6367e953e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/a97484e07cad027a9fb828764c1dcf6a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/3356717f5c9bf6424852e1520a77e503",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/5e09ce33a20f1c276ffcc43627f6e891",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/172a0351dd06161e7774ba5a3abe865b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/2365a4db507862569752334234a29b50",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782838964245",
     "title": "The Ramparts of Ice Season 1",
     "type": "Series",
