@@ -1,5 +1,106 @@
 [
   {
+    "id": "anime_1782838964245",
+    "title": "The Ramparts of Ice Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "synopsis": "Koyuki is a high school student who has built an emotional wall around herself, earning a reputation for being cold and unapproachable—much like a fortress encased in ice. Due to past experiences and her naturally anxious personality, she struggles to express her true feelings and pushes people away to avoid getting hurt. However, her isolated world begins to slowly melt when she meets Minami, a cheerful and straightforward boy who genuinely wants to get to know her. Alongside a small group of classmates who each carry their own hidden insecurities and emotional baggage, Koyuki begins a slow, delicate journey of self-discovery. This touching slice-of-life drama beautifully explores the struggles of youth, the fear of vulnerability, and the warmth of learning to break down one's personal ramparts to let others in.",
+    "rating": "7.58/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "on-air-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Drama",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/ba96dac54c2c763e2bd077c7753ce6c1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/fb9498c98b58294f190a52c37c2972d9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/09c1279b01289fa282367675519325a1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/25044c8f6892d2f084f72025c377023d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/755170968d148dd7c11805a698e545aa",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/22b13941c56521821183db80d815f772",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/a0164cbfe882aa11e433a6b503cb62db",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/2af209a360a2217e0838147bc405aeff",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/210bcb6b2b91bc12683f9f87e7c45d6c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/409cc060198690137a12782c09282608",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782836973108",
     "title": "With You, Our Love Will Make It Through Season 1",
     "type": "Series",
