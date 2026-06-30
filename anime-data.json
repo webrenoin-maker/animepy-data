@@ -1,5 +1,196 @@
 [
   {
+    "id": "anime_1782841954430",
+    "title": "Wistoria: Wand and Sword Season 1 & 2",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+    "synopsis": "In a world where magical prowess defines one's status and power, Will Serfort enters the prestigious Regarden Magical Academy with a severe disadvantage: he cannot cast a single spell. To fulfill a childhood promise to his beloved friend Elfaria—who has already risen to the absolute top of the magical world as one of the Magia Vander—Will must climb the academy ranks despite his flaws. Armed with unmatched physical strength and supreme mastery over the sword, he utilizes his unique blade skills to slay dangerous dungeon monsters and earn the credits he needs. Facing immense discrimination from elitist mages, Will sets out on a grueling journey across multiple intense terms to prove that a sword can shatter even the mightiest wand and rewrite the laws of the magical realm.",
+    "rating": "8.12/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "on-air-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/c3e4035af2a1cde9f21e1ae1951ac80b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/8929c70f8d710e412d38da624b21c3c8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/32e05616c8ed659463f9af00b142dd6f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/4d2e7bd33c475784381a64e43e50922f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/fe2d010308a6b3799a3d9c728ee74244",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/7501e5d4da87ac39d782741cd794002d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/147702db07145348245dc5a2f2fe5683",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/2596a54cdbb555cfd09cd5d991da0f55",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/41e7637e7b6a9f27a98b84d3a185c7c0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/bd0cc810b580b35884bd9df37c0e8b0f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/0731460a8a5ce1626210cbf4385ae0ef",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/90599c8fdd2f6e7a03ad173e2f535751",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/2a280dacaf20368422ae235bd3bb4a9c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/654425b5a1258aad138981579e10dc3f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/c70a586e24e85c37424a19296bad06f7",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/2a95da8aab3b748d2f96e4503653181e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/c8a52336a75c71009c0809142766eb24",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e04f727550ad26170337577bb955a20b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/4a1fee2e159e5ba76e1a8b3f54634d19",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/e1091c68ec533c36a2e255e3a2393a59",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/75f8f7a9ced8da0635e455405200f2e8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782840933291",
     "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 1",
     "type": "Series",
