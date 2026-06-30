@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782843603355",
+    "title": "Mechanical Marie Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/vsH56qFI4GEjeIPcIFIBEF6aaT9.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+    "synopsis": "In a technologically advanced era, a brilliant but lonely inventor creates Marie, an incredibly sophisticated and lifelike mechanical android designed to act as the perfect domestic companion. Though engineered with an intricate synthetic emotional core, Marie initially struggles to comprehend the complex nuances of human behavior, social interactions, and genuine feelings. However, her monotonous operational life takes a dramatic turn when her creator passes away unexpectedly, leaving her to navigate the vast and often harsh human society completely on her own. As Marie seeks out her purpose, she connects with a young human companion who helps her unlock the true depth of her programming. Together, they confront growing societal prejudice against artificial intelligence and uncover dark corporate conspiracies, turning Marie's personal journey of self-discovery into a gripping battle for coexistence and emotional awakening.",
+    "rating": "7.45/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Fantasy, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/58f170c366f582dba770b94119f6099a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/4f9604e8959af0faa3ba6316b5cd1b23",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/04706884b423f40f1a04c54e36da6038",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/8010691083622c563813e1f1d85119d6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/5efbbc6a2ad095faa18de332898d44f1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/6f1110b10375fc596c6cea03fd3e1d24",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/573572e4e9a8486a02fbc7eeeaffba7b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/e204b151da973b64212904f4cebdfb3f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/6b6769819569f3c8ef0785f500832831",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/968d10f389cfdeb6a5dc5610ef2081a9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/8e088b124c72a1ac0dcbcbdebbfb08f3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/fe4a9e5a334eeaf995c4486002afa4ca",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782841954430",
     "title": "Wistoria: Wand and Sword Season 1 & 2",
     "type": "Series",
