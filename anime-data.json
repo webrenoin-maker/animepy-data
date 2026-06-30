@@ -1,5 +1,502 @@
 [
   {
+    "id": "anime_1782847135752",
+    "title": "Jujutsu Kaisen Complete Season 1 - 3 Collection",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+    "synopsis": "Yuji Itadori is a high school student with extraordinary physical abilities who lives a normal life, until his school's Occult Club accidentally unseals a high-grade cursed talisman. To save his friends from bloodthirsty monsters known as Curses, Yuji swallows the talisman—the severed finger of Ryomen Sukuna, the legendary \"King of Curses.\" Miraculously, Yuji retains control of his body but becomes Sukuna's vessel. Inducted into the secret society of Jujutsu Sorcerers at Tokyo Jujutsu High, Yuji trains under the strongest sorcerer, Satoru Gojo. Alongside classmates Megumi Fushiguro and Nobara Kugisaki, Yuji is thrust into a brutal supernatural war, facing devastating tragedies, a massive world-altering siege in Shibuya, and the deadly, high-stakes Culling Game arena as rogue sorcerers and ancient curses conspire to reshape humanity.",
+    "rating": "8.62/10 (Average across seasons)",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/0a09c8844ba8f0936c20bd791130d6b6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/903ce9225fca3e988c2af215d4e544d3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/a8baa56554f96369ab93e4f3bb068c22",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/0f28b5d49b3020afeecd95b4009adf4c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/1385974ed5904a438616ff7bdb3f7439",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e00da03b685a0dd18fb6a08af0923de0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/013d407166ec4fa56eb1e1f8cbe183b9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/3988c7f88ebcb58c6ce932b957b6f332",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/42a0e188f5033bc65bf8d78622277c4e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/7f1de29e6da19d22b51c68001e7e0e54",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/02522a2b2726fb0a03bb19f2d8d9524d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/9fc3d7152ba9336a670e36d0ed79bc43",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/65ded5353c5ee48d0b7d48c591b8f430",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://as-cdn21.top/video/1afa34a7f984eeabdbb0a7d494132ee5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn21.top/video/9b8619251a19057cff70779273e95aa6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://as-cdn21.top/video/d1f491a404d6854880943e5c3cd9ca25",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 17,
+          "server1": "https://as-cdn21.top/video/76dc611d6ebaafc66cc0879c71b5db5c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 18,
+          "server1": "https://as-cdn21.top/video/ec5decca5ed3d6b8079e2e7e7bacc9f2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn21.top/video/069059b7ef840f0c74a814ec9237b6ec",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 20,
+          "server1": "https://as-cdn21.top/video/3def184ad8f4755ff269862ea77393dd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 21,
+          "server1": "https://as-cdn21.top/video/a0a080f42e6f13b3a2df133f073095dd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://as-cdn21.top/video/4c56ff4ce4aaf9573aa5dff913df997a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 23,
+          "server1": "https://as-cdn21.top/video/c8ffe9a587b126f152ed3d89a146b445",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 24,
+          "server1": "https://as-cdn21.top/video/202cb962ac59075b964b07152d234b70",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/5878a7ab84fb43402106c575658472fa",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/7e7757b1e12abcb736ab9a754ffb617a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/9766527f2b5d3e95d4a733fcfb77bd7e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/fa7cdfad1a5aaf8370ebeda47a1ff1c3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/0777d5c17d4066b82ab86dff8a46af6f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/82aa4b0af34c2313a562076992e50aa3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/bd4c9ab730f5513206b999ec0d90d1fb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/b73ce398c39f506af761d2277d853a92",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/140f6969d5213fd0ece03148e62e461e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/06409663226af2f3114485aa4e0a23b4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/6c4b761a28b734fe93831e3fb400ce87",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/1c9ac0159c94d8d0cbedc973445af2da",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/2a79ea27c279e471f4d180b08d62b00a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://as-cdn21.top/video/1d7f7abc18fcb43975065399b0d1e48e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn21.top/video/b3e3e393c77e35a4a3f3cbd1e429b5dc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://as-cdn21.top/video/37a749d808e46495a8da1e5352d03cae",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 17,
+          "server1": "https://as-cdn21.top/video/a8f15eda80c50adb0e71943adc8015cf",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 18,
+          "server1": "https://as-cdn21.top/video/7ef605fc8dba5425d6965fbd4c8fbe1f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn21.top/video/f2217062e9a397a1dca429e7d70bc6ca",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 20,
+          "server1": "https://as-cdn21.top/video/47d1e990583c9c67424d369f3414728e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 21,
+          "server1": "https://as-cdn21.top/video/8d5e957f297893487bd98fa830fa6413",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://as-cdn21.top/video/a5e00132373a7031000fd987a3c9f87b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 23,
+          "server1": "https://as-cdn21.top/video/2b24d495052a8ce66358eb576b8912c8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "3": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/7c581b412887d3ddcf188128ec7d7cd5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/00e53a7bf746f90a6700232281a0a6d0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/aa34ac274b2e734f35fe9a94b813ba3d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/571dea3eb9d4d24c6194ef17c91cda79",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/64926740435be6cbcd331ab8cb0bb0c0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/4682ba60cfd9bdbc779fa633fa3218d5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/eb4f335eb073875d0faca60ca65d2b5f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/ec6b45e6329906a0068a8772960c6a60",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/5a78f1d526e0a3c8b4f759968b660b8c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/e748acf9e03703dc3c545e07eabac62d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/37aa66e8794da1302fecd980928e950a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/d9c6328c1655b9d1a72ccef1b2a0b524",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782846747405",
     "title": "Black Clover: Sword of the Wizard King (Movie)",
     "type": "Movie",
