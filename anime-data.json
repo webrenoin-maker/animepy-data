@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782930352781",
+    "title": "Easygoing Territory Defense by the Optimistic Lord Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/2ctXv1LyyVad5VLToS1t2ZqSCQa.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+    "synopsis": "Van, the fourth son of a powerful noble, is only two years old when he remembers his past life as a salaryman in Japan. With his adult brain in a young body, he's considered a child prodigy… until he displays the \"Production Magic\" skill when he turns eight. In a family that favors offensive magic, this crafting skill is considered useless in battle, and Van is banished to oversee a tiny country town in disgrace.",
+    "rating": "7.65/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, Japanese",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/cd2d9ff70c5361ea752e858d7bbf8437",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/3b3f5e968aec2e8470ffbcbb61ae3512",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/7e44f6169f0ae75b943cafb5acdb4449",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/737d3708ec65e41cf504aee654131672",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/861c3baa135827c5d8b79787dbd646d6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e7a4012739e3665c560ad8026e4913f5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/8f6f3cfccd9710dbf1eb8335a2d0a7ea",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/339e1f3c4cfdd33fa17637c74bf5df09",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/26adbe9d22d735666aa3800c798872fc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/daf719b7ee191a3d78bd90603c7a1860",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/b39c6e3d69c076e3db61d027ae537895",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/fb0ffdcee679b597fd010bdfbaca55bf",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782929981717",
     "title": "Gintama Complete Season 1 - 4 Collection",
     "type": "Series",
