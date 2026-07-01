@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782894493754",
+    "title": "Let's Play Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/tJbyOYE4befDE7SgV03aJzxt8Ja.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+    "synopsis": "Samara \"Sam\" Young is an aspiring video game developer in Los Angeles who is about to achieve her dreams with her first official video game, Ruminate. However, her hopes are shattered when a popular and influential game streamer gives her game a scathing and brutal review. To make matters worse, Sam soon discovers that this troublesome critic is now her brand-new neighbor! This comedic and romantic story navigates through the realities of social anxiety, the gaming community, and unexpected relationships as Sam tries to balance her burgeoning career with her chaotic personal life.",
+    "rating": "7.65/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese",
+    "genres": "Anime",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/7f8a689b0c8adf6213e67688ce750090",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/6076870474b1ea11f0fbdbaffe86d3fc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/50b6da85112e21710d78b44f2cc8a8a3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/842af58fcd81687f10b5c099e49ec699",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/6ecee9c863a73e2c3ba55b5fc99b1fed",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/b12131e87c87b7c13a36825bdc4abe77",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/2db57e442e48e8860facef49e0a8f2dc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/9b567223cada8f26e92a5223b1c7d8a8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/4361c8e1e16420a12979e7acaeae4add",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/650170b55ee391260d8f1ce10d493661",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/7269551457062ac80044ae5e0fb1b882",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/6babc4f58d8d2e929d85fc2175025c92",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782894139199",
     "title": "Liar Game Season 1",
     "type": "Series",
