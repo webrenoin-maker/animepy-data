@@ -1,5 +1,202 @@
 [
   {
+    "id": "anime_1782895312571",
+    "title": "Tojima Wants to Be a Kamen Rider Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/oDHsngq989H1jY2ZsLB5KRUVIb.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/hPYlTczDtllJfU0SY3sA96s7Uy6.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/hPYlTczDtllJfU0SY3sA96s7Uy6.jpg",
+    "synopsis": "As a child, Tanzaburo Tojima was an ardent fan of the Kamen Rider show and aspired to not just emulate Kamen Rider, but to actually become one. Despite realizing the show is fictional and that Kamen Rider and the villain organization Shocker doesn't exist, Tojima continues his physical training in seclusion, but ends up a single, 40-year-old construction worker. However, Tojima learns of a recent crime wave where criminals are acting like Shocker, once more reviving his desire to become Kamen Rider.",
+    "rating": "7.85/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll / Medialink",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese",
+    "genres": "Action, Adventure, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/4fea1a6421a72296a12cd7898b93858e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/c93fd94c6c44b2674f4e5c16e5a223eb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/7552663f68b5eba5b1e88899419a4a01",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/476d47ccb574f051730e1718cdbafd93",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/9a944cbabc2d065e383296ec167138b7",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/278c00e63919b2bd4844a64463cc69d5",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/f477b7bc78101c4ae91008a6a403104e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/be54c7f74360116cd9a2274737dc882e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/e095c4a95e189556ccbff380afea7804",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/3923540ac74f6ce3aa9fa97326f7c238",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/6721e8332154c61a68a38816866a869f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/7818425dd9548bac19b8357af57490c3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/c2a58db8b46ccab0d043e74164407627",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://as-cdn21.top/video/47412a37c01ba9ff688b231216c04ad2",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn21.top/video/f785d67f490e60aaa9e63d821b6440d4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://as-cdn21.top/video/9328494eae1f7b446aeca7ed0a14a520",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 17,
+          "server1": "https://as-cdn21.top/video/1b3bd97e8225ba7472e75231438c3603",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 18,
+          "server1": "https://as-cdn21.top/video/5d28f6eb169ebb83117ffd6b05518fc4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 19,
+          "server1": "https://as-cdn21.top/video/299a48c40fac744498626b1df660d9c3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 20,
+          "server1": "https://as-cdn21.top/video/4b8d5e5ec1da0fad27b786387030ecd4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 21,
+          "server1": "https://as-cdn21.top/video/e5fb0b05fdfd999b0ccd29aec3b22627",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 22,
+          "server1": "https://as-cdn21.top/video/daecaf9eff0c713e71502259d983ee69",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782894493754",
     "title": "Let's Play Season 1",
     "type": "Series",
