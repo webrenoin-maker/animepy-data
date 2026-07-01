@@ -1,5 +1,90 @@
 [
   {
+    "id": "anime_1782928952482",
+    "title": "Release the Witch Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/ygXvdkB7Ue9ELUUlQe7wFh5fdJa.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+    "synopsis": "Roland, a modern-day engineer, awakens to find himself in a medieval fantasy world where he is a prince facing execution. Using his advanced knowledge, he transforms his territory by industrializing and utilizing the powers of \"witches,\" who are persecuted in this world, to defend against demonic invasions and secure his reign.",
+    "rating": "7.95/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll / Bilibili",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Adventure, Isekai, Fantasy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/9f727bc55d5aa9dc9349ea9da97b1ff8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/ed058f6930a27493b8a5aabc8b0d4f70",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/242693e0e518a473d4374f84de433521",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/64b35642ef7b33d20fb435165c8fd904",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/30d0da315d9888b7d7df6dfcb59d40e8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/8a29a411e91931b2c009daf000f9ed7d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/693ba0757b77ceb996e90c00431d9ebc",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/3f3267d02dea7f94781bd5a437733db3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782928572553",
     "title": "Scum of the Brave Season 1",
     "type": "Series",
