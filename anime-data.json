@@ -1,5 +1,196 @@
 [
   {
+    "id": "anime_1782896977052",
+    "title": "The Angel Next Door Spoils Me Rotten Complete Season 1 & 2",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/mRkGbf2HPyHdOcrD7iTjqzrwscS.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/xT61K3zhGTix0O3H5BEcDLGDkk9.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w780/xT61K3zhGTix0O3H5BEcDLGDkk9.jpg",
+    "synopsis": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives next door. They have almost no relation, but their relationship begins to change after he lends her his umbrella on a rainy day.",
+    "rating": "8.16/10 (Average across seasons)",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Romance, Slice of Life, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/cc598895a76714dff4c34b2361569b37",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/161fd33f67dbfd29138ce3f165d5e5dd",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/bac4cbb6173335e862a1b3df635ee3ba",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/41d6c2482cdf34113f998e9df192e148",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/7bcbf838aad2d6d4f975380ee45ef8d8",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/d98d76e2b5ba72023414d98e75403e79",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/93ac0c50dd620dc7b88e5fe05c70e15b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/c56030557e55275663bd45b48cd0223e",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/f4d87ed3b0dbf9c79746d00cedbb5e78",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/eedc6ed006e6f49a7010013cc1fd8a3f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/75ac2c91d93efba8651671f18ec013d0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/45988a729df28f554d96a5b9932b17e1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ],
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/d3b724e14dfe42f0a53c86dc5aafd20f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/dcd68320d762579423e846dea3179930",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/585774f49060e85e2e0a7579202f075f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/1841038227852628f1d604c0211494a6",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/abdc2472ee4aaa9528557f6e913415e0",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/11b4076afd563b2612049c2c77465b32",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/15b16cf1aa29a55a67eeeb7dc6e5f686",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/8bb6fe84b8bba85343f415936f15e878",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/5d2592e8bab5112c7d161e133eade524",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782895312571",
     "title": "Tojima Wants to Be a Kamen Rider Season 1",
     "type": "Series",
