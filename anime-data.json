@@ -1,5 +1,154 @@
 [
   {
+    "id": "anime_1782928572553",
+    "title": "Scum of the Brave Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/kSJv65fW98dUqRD5f0ahLLYoZQN.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/1hS9huDDGeirdy1Regli71wo9ot.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/1hS9huDDGeirdy1Regli71wo9ot.jpg",
+    "synopsis": "In the mid-21st century, Tokyo's mafia can turn into ether-enhanced Demon Lords, and Braves hunt them down. Yashiro, the Grim Reaper, reluctantly takes a new apprentice named Aki Jogamine, a high school girl training to become a Brave. He soon finds himself dragged into one troublesome case after another.",
+    "rating": "7.85/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "on-air-series",
+    "inSlider": true,
+    "langs": "Hindi, Japanese",
+    "genres": "Fantasy, Sci-Fi, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/57ed2a56d827a1db93294f32c443b57c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/366c7be95b6644ce0d3ce9744d15a99b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/b37b55cfd264be85453811ac5df63760",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/eb5a26ff320aa437302a95deb6606187",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/12a5f0368ac55bbc43276ce879d4d4f1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/e8334a82a2f76237442a44494eaa7a1f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/818d7d2cdff6df969894d2fdcd9b48ca",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/ab949c4e4046ebaf3f487a799376108d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/e958f912f1f1fea31e254d8a9af1825a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/5b3f284003b54d9abc321e21a9e16449",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/090793f7ac0ed3232628dbbcef5f9928",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/d9d8c0620d14c209c85472f25dd6fd4d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 13,
+          "server1": "https://as-cdn21.top/video/2ec87a9c5e9726a058235da5054f9527",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 14,
+          "server1": "https://as-cdn21.top/video/a640f3accaebcb81205e773a65e3d894",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 15,
+          "server1": "https://as-cdn21.top/video/98be175f18ff12118f056c7e448ade23",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 16,
+          "server1": "https://as-cdn21.top/video/75b3ce485b8e53892347e39b6b00ee89",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782927844899",
     "title": "Roll Over and Die: I Will Fight for an Ordinary Life with My Love and Cursed Sword! Season 1",
     "type": "Series",
