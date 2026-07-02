@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782983821947",
+    "title": "You and I Are Polar Opposites Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w500/9hRuMU33DBz4z1vaYBRqLLuFFbQ.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w533_and_h300_face/5p423VlhPXf7681XyZCL4khIJLl.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/5p423VlhPXf7681XyZCL4khIJLl.jpg",
+    "synopsis": "Miyu Suzuki is a high school student who is known for being a bit serious and reserved, while Yūsuke Tani is a bubbly, energetic guy. Despite their completely different personalities and social circles, the two find themselves drawn to each other. This heartwarming and comedic romantic story explores how these complete opposites navigate their first love, misunderstandings, and the everyday high school life together.",
+    "rating": "8.35/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-series",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Romance, Slice of Life, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/67e7cfd2e483fbbaaaa54b5523753e58",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/ce3f64221a4fbc9ed30d001c572bc5a3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/9bff601cec084432a684668c641ea05b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/e5fa8a713417afe3c4fd2b9ddfb2d734",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/df584ebb35586e6afddb744e9de7236f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/699123454aa4781d475b96aaac59dc62",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/783919a58a6cea9b67089921677bb689",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/b45311f6bdaa61572b3331d17248b980",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/ccd43cb64de7978af1366c557aa0393f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/562d7db19b56dba0a0e320d0a7f0aa00",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/334d3bd3e5a6b1b08ef6cda3ab7243c9",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/fc1e3dffd084c769d4484fea849fa704",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782983532998",
     "title": "Yowayowa Sensei Season 1",
     "type": "Series",
