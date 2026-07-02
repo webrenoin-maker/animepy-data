@@ -1,5 +1,122 @@
 [
   {
+    "id": "anime_1782983164060",
+    "title": "Yuri!!! on Ice Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/oxenakJNCj06JrWHENjvwaWGcSz.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/mWwWhDiQWONiSS4Go12TTjNw0E5.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/mWwWhDiQWONiSS4Go12TTjNw0E5.jpg",
+    "synopsis": "Yuuri Katsuki, Japan's most hopeful figure skater, suffers a crushing defeat at the Grand Prix Final, leading him to contemplate retiring from the sport. However, a video of him performing a routine by the world champion, Victor Nikiforov, goes viral, prompting Victor himself to travel to Japan and become Yuuri's coach. Together, they embark on a journey across the Figure Skating Grand Prix series to reclaim Yuuri's passion and reach the top.",
+    "rating": "7.90/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll / Funimation",
+    "section": "new-arrivals",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese, Tamil, Telugu",
+    "genres": "Romance, Drama, Sports",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/958b85a5b906cfc1cf826d779e694239",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/20be339c46ed86941481c44c82b84b7d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/21f8d34ed55cc8487885b771aec87f50",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/97fb357429c8477b578a8647f2fc4419",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/72af543e6d0f8714d3185516e3afe9f4",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/6dcc8d363118d28496eee7b61822a13c",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/6587887c1a63f29633b23791ee81d739",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/42646fb7b3cafcd424e700c1ffee3421",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/e0e60ec21d10b717a728bc089e73f262",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 10,
+          "server1": "https://as-cdn21.top/video/e2812f19ee06fbf2f9c2b27fa55ae5db",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 11,
+          "server1": "https://as-cdn21.top/video/fe8946bd00dd1178502ce6befbb2a29a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 12,
+          "server1": "https://as-cdn21.top/video/55ea27b4b82dd858f2f7d75cb01f221a",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782930352781",
     "title": "Easygoing Territory Defense by the Optimistic Lord Season 1",
     "type": "Series",
