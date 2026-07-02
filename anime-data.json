@@ -1,5 +1,58 @@
 [
   {
+    "id": "anime_1782983532998",
+    "title": "Yowayowa Sensei Season 1",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/1WDp9RjN7odYw490WLNw79iceLa.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+    "synopsis": "Hiyori Hiwamura is a newly assigned high school teacher who has a bit of a reputation problem. Because of her quiet demeanor and intense clumsiness, her students completely misread her and fear her as the rumored \"Ms. Scary,\" a terrifying instructor who will put a curse on anyone who upsets her! However, the reality is completely different. In truth, she is actually \"Yowayowa Sensei\" (Weak, Wimpy Teacher) with zero physical strength, a soft voice, and every single stat at the absolute lowest level. The only one who knows this secret is her student, Akihito Abikura. Determined to help clear up the misunderstanding, Akihito steps up to support his beloved, clumsy teacher, only to find himself constantly swept up in thrilling and heart-pounding troubles along the way.",
+    "rating": "6.95/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "HIDIVE",
+    "section": "fresh-drops",
+    "inSlider": true,
+    "langs": "Hindi, English",
+    "genres": "Shonen, Romance, Comedy",
+    "seasonsData": {
+      "1": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/b84931d049a63cf56e0a47379c26c5cf",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/9d253ace7cf557b2f1f99d319649e74f",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/c1a0d1b040dbb9591d60fd82807b5878",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/32b4b94134ad4c54ddbd013ec2564deb",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782983164060",
     "title": "Yuri!!! on Ice Season 1",
     "type": "Series",
