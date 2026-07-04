@@ -1,5 +1,98 @@
 [
   {
+    "id": "anime_1783163730691",
+    "title": "Trigun Stargaze (Trigun Stampede Season 2)",
+    "type": "Series",
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/4rMkVmkk6AzrcbBX9JSwqyG7pbK.jpg",
+    "banner": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
+    "mobileBanner": "https://media.themoviedb.org/t/p/w533_and_h300_face/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
+    "synopsis": "Lost JuLai की त्रासदी को ढाई साल बीत चुके हैं, जिसने पूरे शहर को तबाह कर दिया था और पूरे ग्रह को अराजकता में धकेल दिया था। मेरिल, जो अब एक सीनियर जर्नलिस्ट बन चुकी है, अपने नए युवा साथी मिली के साथ वैश की तलाश जारी रखे हुए है, और इसी दौरान रास्ते में उसकी मुलाकात वोल्फवुड से होती है। जैसे ही प्लांट की चोरियाँ एक बार फिर से शुरू होने लगती हैं, उन्हें बैकस्टेज मिलियन्स नाइव्स के संगठन की साजिश का अहसास होता है और आने वाले इस तूफान को रोकने के लिए उन्हें तेजी से कदम उठाने होंगे।",
+    "rating": "8.05/10",
+    "quality": "480p AVC | 720p AVC | 1080p HEVC 10bit",
+    "subtitle": "English",
+    "dubbedBy": "Crunchyroll",
+    "section": "most-watched-films",
+    "inSlider": true,
+    "langs": "Hindi, English, Japanese",
+    "genres": "Action, Sci-Fi",
+    "seasonsData": {
+      "2": [
+        {
+          "epNum": 1,
+          "server1": "https://as-cdn21.top/video/07e6663e4f8504f56cf059d5c5980708",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 2,
+          "server1": "https://as-cdn21.top/video/a76c856f36b4d6f8b0a9bca9d3e81654",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 3,
+          "server1": "https://as-cdn21.top/video/86ec2b20d2256ee17bff18962bf3ea8b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 4,
+          "server1": "https://as-cdn21.top/video/22ccaf6d1a4335b05a8adc1d68d6e4b1",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 5,
+          "server1": "https://as-cdn21.top/video/e778f5c84ed2c8a8dbc05418c90732e3",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 6,
+          "server1": "https://as-cdn21.top/video/bc9896c35a1d00719db5cfcbeec66f5b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 7,
+          "server1": "https://as-cdn21.top/video/3802a790a46bbd07be516237da0ff53d",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 8,
+          "server1": "https://as-cdn21.top/video/b043669a0987b6823e450053158ab98b",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        },
+        {
+          "epNum": 9,
+          "server1": "https://as-cdn21.top/video/ebe1fe48a59dcf8de128d2339cb85835",
+          "server2": "",
+          "server3": "",
+          "server4": "",
+          "server5": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "anime_1782983821947",
     "title": "You and I Are Polar Opposites Season 1",
     "type": "Series",
